@@ -1,4 +1,4 @@
-### Hi there, I'm Joyal- aka [IT Buddies][youtube] 👋
+### Hi there, I'm Joyal 👋
 
 ## I'm a Learner, Student, Freelancer, Developer, and Tutor!
 
