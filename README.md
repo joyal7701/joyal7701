@@ -43,7 +43,7 @@
 [website]: https://joyal-portfolio.netlify.app/
 [twitter]: https://twitter.com/Joyal_7701
 [youtube]: https://www.youtube.com/c/ITBuddies
-[instagram]: https://www.youtube.com/c/ITBuddies
+[instagram]: https://www.instagram.com/joyal_736/
 [linkedin]: https://www.linkedin.com/in/joyal-shah-7701/
 [facebook]: https://www.facebook.com/joyal.shah.35
 [pinterest]: https://in.pinterest.com/joyalshah07/_saved/
