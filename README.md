@@ -42,12 +42,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Joyal Shah GitHub Stats" src="https://github-readme-stats.joyal7701.vercel.app/api?username=joyal7701&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Joyal Shah Github Stats" src="https://github-readme-stats.vercel.app/api?username=joyal7701&count_private=true&show_icons=true&hide_border=true" />
 
 [website]: https://joyal-portfolio.netlify.app/
 [twitter]: https://twitter.com/Joyal_7701
