@@ -40,7 +40,8 @@
 <br />
 <br />
 
-<img align="left" alt="Joyal Shah Github Stats" src="https://github-readme-stats.vercel.app/api?username=joyal7701&count_private=true&show_icons=true&hide_border=true" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joyal7701&show_icons=true" alt="joyal" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&layout=compact" alt="joyal" /> </p>
 
 [website]: https://joyal-portfolio.netlify.app/
 [twitter]: https://twitter.com/Joyal_7701
