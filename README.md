@@ -44,7 +44,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&layout=compact" alt="joyal" /> </p>
 
 [website]: https://joyal-portfolio.netlify.app/
-[twitter]: https://twitter.com/Joyal_7701
+[twitter]: https://twitter.com/Joyal7701
 [youtube]: https://www.youtube.com/c/ITBuddies
 [instagram]: https://www.instagram.com/joyal_736/
 [linkedin]: https://www.linkedin.com/in/joyal-shah-7701/
