@@ -1,12 +1,23 @@
-### Hi there, I'm Joyal 👋
+<img align="left" width="180" height="180" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/102575233-bd8bac00-4118-11eb-89f5-302f8ed594f1.png" />
 
-## I'm a Learner, Student, Freelancer, Developer, and Tutor!
+### Hi there, This is [Joyal Shah](https://joyal7701.github.io/) 👋
 
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=dhhruv" alt="dhhruv" /> 
+	<img src="https://badges.pufler.dev/repos/dhhruv" alt="dhhruv" /> 
+</p>
+
+I'm a Learner, Student, Freelancer, Developer, and Tutor!
+<br>
+
+### About Me 🚀
 - 🔭 I’m currently working on Full-Stack Development!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play table tennis & 🏊‍♂️
+- 📫 How to reach me  [🌐](https://joyal-portfolio.netlify.app)
+- 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info.
 
 ### Connect with me:
 
