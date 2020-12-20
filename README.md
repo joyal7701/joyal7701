@@ -1,13 +1,14 @@
-<img align="left" width="180" height="180" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/102575233-bd8bac00-4118-11eb-89f5-302f8ed594f1.png" />
+<img align="left" width="180" height="180" alt="joyal" src="https://user-images.githubusercontent.com/72680045/102575233-bd8bac00-4118-11eb-89f5-302f8ed594f1.png" />
 
 ### Hi there, This is [Joyal Shah](https://joyal7701.github.io/) 👋
 
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=dhhruv" alt="dhhruv" /> 
-	<img src="https://badges.pufler.dev/repos/dhhruv" alt="dhhruv" /> 
+	<img src="https://komarev.com/ghpvc/?username=joyal7701" alt="joyal" /> 
+	<img src="https://badges.pufler.dev/repos/joyal7701" alt="joyal" /> 
 </p>
 
 I'm a Learner, Student, Freelancer, Developer, and Tutor!
+<br>
 <br>
 
 ### About Me 🚀
