@@ -6,7 +6,7 @@
 	<img src="https://komarev.com/ghpvc/?username=joyal7701" alt="joyal" /> 
 	<img src="https://badges.pufler.dev/repos/joyal7701" alt="joyal" /> 
 </p>
-
+<br>
 I'm a Learner, Student, Freelancer, Developer, and Tutor!
 <br>
 <br>
