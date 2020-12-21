@@ -10,10 +10,6 @@
 <br>
 <br>
 I'm a Learner, Student, Freelancer, Developer, and Tutor!
-<br>
-<br>
-<br>
-<br>
 
 ### About Me 🚀
 - 🔭 Now I’m working on Full-Stack Development!
