@@ -14,7 +14,7 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 <br>
 
 ### About Me 🚀
-- 🔭 I’m currently working on Full-Stack Development!
+- 🔭 Now I’m working on Full-Stack Development!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
