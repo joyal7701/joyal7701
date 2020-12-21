@@ -7,6 +7,8 @@
 	<img src="https://badges.pufler.dev/repos/joyal7701" alt="joyal" /> 
 </p>
 <br>
+<br>
+<br>
 I'm a Learner, Student, Freelancer, Developer, and Tutor!
 <br>
 <br>
