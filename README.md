@@ -15,7 +15,7 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 - 🔭 Now I’m working on Full-Stack Development!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play table tennis & 🏊‍♂️
 - 📫 How to reach me  [🌐](https://joyal-portfolio.netlify.app)
 
