@@ -52,10 +52,7 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 <br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joyal7701&show_icons=true" alt="joyal" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&layout=compact" alt="joyal" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhhruv&show_icons=true&count_private=true&cache_seconds=2000&include_all_commits=true" alt="dhhruv" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&langs_count=7&show_icons=true&count_private=true&cache_seconds=2000" alt="dhhruv" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&langs_count=7&show_icons=true&count_private=true&cache_seconds=2000" alt="joyal7701" /> </p>
 
 [website]: https://joyal-portfolio.netlify.app/
 [twitter]: https://twitter.com/Joyal7701
