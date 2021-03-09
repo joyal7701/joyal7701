@@ -60,4 +60,4 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 [instagram]: https://www.instagram.com/joyal_736/
 [linkedin]: https://www.linkedin.com/in/joyal-shah-7701/
 [facebook]: https://www.facebook.com/joyal.shah.35
-[pinterest]: https://in.pinterest.com/joyalshah07/_saved/
+[pinterest]: https://in.pinterest.com/joyalshah07
