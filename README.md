@@ -6,10 +6,9 @@
 	<img src="https://komarev.com/ghpvc/?username=joyal7701" alt="joyal" /> 
 	<img src="https://badges.pufler.dev/repos/joyal7701" alt="joyal" /> 
 </p>
-<br>
-<br>
-<br>
+
 I'm a Learner, Student, Freelancer, Developer, and Tutor!
+<br>
 
 ### About Me 🚀
 - 🔭 Now I’m working on Full-Stack Development!
@@ -24,6 +23,7 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 [<img align="left" alt="joyal7701.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="joyal7701 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="joyal7701 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:joyalshah07@gmail.com)
 [<img align="left" alt="joyal7701 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="joyal7701 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="joyal7701 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/facebook.svg" />][facebook]
