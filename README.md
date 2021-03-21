@@ -65,7 +65,7 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyal7701&show_icons=true&locale=en&theme=radical" alt="joyalshah" /></p>
 
-<p align="center">(https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/joyal7701/github-readme-stats) </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&langs_count=7&show_icons=true&count_private=true&cache_seconds=2000&layout=compact" alt="joyal7701" /> </p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
