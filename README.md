@@ -72,9 +72,9 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.youtube.com/c/ITBuddies" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/joyal-shah-7701/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:joyalshah07@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.youtube.com/c/ITBuddies" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/joyal7701/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="50" /></a>  
 &nbsp; <a href="https://twitter.com/Joyal7701/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
 &nbsp; <a href="https://facebook.com/joyal.shah.35/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" />
