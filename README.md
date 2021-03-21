@@ -22,6 +22,7 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 - 📝 See my [Resume](https://joyal7701.github.io/assets/Joyal's%20Resume.pdf) to get more info.
 
 <br>
+
 ## My Skill Set  
 
 
@@ -65,9 +66,9 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamsshah&show_icons=true&locale=en&theme=radical" alt="sohamsshah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyal7701&show_icons=true&locale=en&theme=radical" alt="joyalshah" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsshah&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/sohamsshah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/joyal7701/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
