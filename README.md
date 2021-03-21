@@ -21,15 +21,18 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 - 📫 How to reach me:  [🌐](https://joyal-portfolio.netlify.app)
 - 📝 See my [Resume](https://joyal7701.github.io/assets/Joyal's%20Resume.pdf) to get more info.
 
-### Connect with me:
+<h3> 🤝🏻 Connect with Me </h3>
 
-[<img align="left" alt="joyal7701.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="joyal7701 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="joyal7701 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:joyalshah07@gmail.com)
-[<img align="left" alt="joyal7701 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="joyal7701 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="joyal7701 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/facebook.svg" />][facebook]
+<p align="center">
+ 
+&nbsp; <a href="https://www.youtube.com/c/ITBuddies" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/joyal-shah-7701/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:joyalshah07@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/joyal7701/" target="_blank" rel="noopener noreferrer"><img src="c/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://twitter.com/Joyal7701/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/joyal.shah.35/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
+
+</p>
 <br />
 <br />
 ## My Skill Set  
