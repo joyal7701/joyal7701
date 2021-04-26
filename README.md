@@ -1,6 +1,6 @@
 <img align="left" width="180" height="180" alt="joyal" src="https://user-images.githubusercontent.com/72680045/102575233-bd8bac00-4118-11eb-89f5-302f8ed594f1.png" />
 
-### Hi there, This is [Joyal Shah](https://joyal7701.github.io/) 👋
+### Hi there, This is [Joyal Shah](https://joyal-portfolio.netlify.app/) 👋
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=joyal7701" alt="joyal" /> 
