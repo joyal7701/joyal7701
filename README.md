@@ -81,4 +81,4 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 [website]: https://joyal-portfolio.netlify.app/
 [youtube]: https://www.youtube.com/c/ITBuddies
 [instagram]: https://www.instagram.com/joyal7701/
-[linkedin]: https://www.linkedin.com/in/joyal-shah-7701/
+[linkedin]: https://www.linkedin.com/in/joyal7701/
