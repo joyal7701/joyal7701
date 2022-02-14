@@ -81,3 +81,4 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 [website]: https://joyal-portfolio.netlify.app/
 [youtube]: https://www.youtube.com/c/ITBuddies
 [linkedin]: https://www.linkedin.com/in/joyal7701/
+[Buy Me a Coffee]: https://www.buymeacoffee.com/joyal7701
