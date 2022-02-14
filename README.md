@@ -20,6 +20,7 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 - ⚡ Fun fact: I love to play table tennis & do 🏊‍♂️
 - 📫 How to reach me:  [🌐](https://joyal-portfolio.netlify.app)
 - 📝 See my [Resume](https://joyal7701.github.io/assets/Joyal's%20Resume.pdf) to get more info.
+- 💸 You can support my OSS work by [buying me a pizza 🍕 ](https://www.buymeacoffee.com/joyal7701)
 <br>
 
 ## My Skill Set  
@@ -81,4 +82,3 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 [website]: https://joyal-portfolio.netlify.app/
 [youtube]: https://www.youtube.com/c/ITBuddies
 [linkedin]: https://www.linkedin.com/in/joyal7701/
-[Buy Me a Coffee]: https://www.buymeacoffee.com/joyal7701
