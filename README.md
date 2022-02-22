@@ -6,9 +6,6 @@
 	<img src="https://komarev.com/ghpvc/?username=joyal7701" alt="joyal" /> 
 	<img src="https://badges.pufler.dev/repos/joyal7701" alt="joyal" /> 
 </p>
-<br>
-<br>
-<br>
 
 ### About Me 🚀
 - 🔭 Now I’m working on Full-Stack Development!
