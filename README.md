@@ -66,10 +66,12 @@ I'm a Learner, Student, Freelancer, Developer, and Tutor!
 <br />
 <br />
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyal7701&show_icons=true&locale=en&theme=radical" alt="joyalshah" /></p>
-<br/>
-<br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&langs_count=7&show_icons=true&count_private=true&cache_seconds=2000&layout=compact" alt="joyal7701" /> </p>
+## Github Languages and Status
+
+<p float ="left">
+    <img alt="Joyal Shah Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&layout=compact&theme=vue-dark&langs_count=8&hide_border=true" color="black" width="40%"/><!-- .element height="50%" width="50%" -->
+    <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=joyal7701&show_icons=true&hide_border=true&theme=vue-dark&show_icons=true&count_private=true" color="black" width="55%"/>
+</p>
 <br/>
 <h3> 🤝🏻 Connect with Me </h3>
 
