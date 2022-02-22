@@ -15,11 +15,8 @@
 - 📫 How to reach me:  [🌐](https://joyal-portfolio.netlify.app)
 - 📝 See my [Resume](https://joyal7701.github.io/assets/Joyal's%20Resume.pdf) to get more info.
 - 💸 You can support my work by [buying me a pizza 🍕 ](https://www.buymeacoffee.com/joyal7701)
-<br>
 
 ## My Skill Set  
-
-
 
 
 ### Frontend  
@@ -58,7 +55,6 @@
 
 <br />
 <br />
-<br />
 
 ## Github Languages and Status
 
@@ -66,7 +62,7 @@
     <img alt="Joyal Shah Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&layout=compact&theme=vue-dark&langs_count=8&hide_border=true" color="black" width="40%"/><!-- .element height="50%" width="50%" -->
     <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=joyal7701&show_icons=true&hide_border=true&theme=vue-dark&show_icons=true&count_private=true" color="black" width="55%"/>
 </p>
-<br/>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
