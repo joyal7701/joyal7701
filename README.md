@@ -58,8 +58,8 @@
 
 ## Github Languages and Status
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhhruv&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="dhhruv" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="dhhruv" width="37%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=joyal7701&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="joyal7701" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="joyal7701" width="37%" />
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
