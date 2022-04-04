@@ -58,11 +58,8 @@
 
 ## Github Languages and Status
 
-<p float ="left">
-    <img alt="Joyal Shah Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&layout=compact&theme=vue-dark&langs_count=8&hide_border=true" color="black" width="40%"/><!-- .element height="50%" width="50%" -->
-    <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=joyal7701&show_icons=true&hide_border=true&theme=vue-dark&show_icons=true&count_private=true" color="black" width="55%"/>
-</p>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhhruv&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="dhhruv" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="dhhruv" width="37%" />
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
