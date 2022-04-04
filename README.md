@@ -68,6 +68,6 @@
 &nbsp; <a href="https://www.youtube.com/c/ITBuddies" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>  
 </p>
 
-[website]: https://joyal-portfolio.netlify.app/
+[website]: https://joyal-portfolio.netlify.ap/
 [youtube]: https://www.youtube.com/c/ITBuddies
 [linkedin]: https://www.linkedin.com/in/joyal7701/
