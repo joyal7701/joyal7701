@@ -64,7 +64,7 @@
  -->
  
  
-# Hi 👋, I'm Joyal
+# Hi 👋, I'm Joyal Shah
 -  I'm a Learner, Student, Freelancer, Developer, and Tutor !
 
 # About Me 🚀
