@@ -1,4 +1,4 @@
-<!-- # Hi 👋, I'm Joyal -->
+<!-- # Hi 👋, I'm Joyal Shah -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=joyal7701) -->
 <!-- ![](https://badges.pufler.dev/repos/joyal7701) -->
