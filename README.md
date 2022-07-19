@@ -65,7 +65,7 @@
  
  
 # Hi 👋, I'm Joyal
-- ⚡ I'm a Learner, Student, Freelancer, Developer, and Tutor!
+-  I'm a Learner, Student, Freelancer, Developer, and Tutor !
 
 # About Me 🚀
 - 🔭 Now I’m working on Full-Stack Development!
