@@ -3,8 +3,8 @@
 ## I'm a Learner, Student, Freelancer, Developer, and Tutor!
 
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=joyal7701" alt="joyal" /> 
-	<img src="https://badges.pufler.dev/repos/joyal7701" alt="joyal" /> 
+	<img src="https://komarev.com/ghpvc/?username=joyal7701" alt="joyal7701" /> 
+	<img src="https://badges.pufler.dev/repos/joyal7701" alt="joyal7701" /> 
 </p>
 
 ### About Me 🚀
