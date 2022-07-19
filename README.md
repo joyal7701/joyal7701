@@ -58,9 +58,9 @@
 </div>
 &nbsp;
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=JenilGajjar20&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=joyal7701&show_icons=true&locale=en&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=JenilGajjar20&show_icons=true&locale=en)
+![](https://github-readme-stats.vercel.app/api?username=joyal7701&show_icons=true&locale=en)
  -->
  
  
@@ -89,7 +89,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joyal7701&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JenilGajjar20&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=joyal7701&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JenilGajjar20&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=joyal7701&icon=5&color=1)](https://visitcount.itsvg.in)
