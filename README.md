@@ -77,7 +77,6 @@
 - 💸 You can support my work by [buying me a pizza 🍕 ](https://www.buymeacoffee.com/joyal7701)
 
 ## 🤝 Connect With Me
-[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=Website&logoColor=white)](https://joyal-portfolio.netlify.app/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%231DA1F2.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/ITBuddies) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyal7701/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/joyal7701) 
