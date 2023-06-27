@@ -14,7 +14,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%231DA1F2.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/ITBuddies) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyal7701/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/joyal7701) 
-[![Snapchat](https://img.shields.io/badge/Snapchat-%230077B5.svg?logo=Snapchat&logoColor=white)](https://snapchat.com/add//joyal7701) 
+[![Snapchat](https://img.shields.io/badge/Snapchat-%230077B5.svg?logo=Snapchat&logoColor=white)](https://snapchat.com/add//joyal77o1) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%231DA1F2.svg?logo=WhatsApp&logoColor=white)](https://wa.me/14503301386) 
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/joyal7701) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/joyal7701) 
