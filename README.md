@@ -1,5 +1,5 @@
 # Hi 👋, I'm Joyal Shah
--  I'm a Learner, Student, Freelancer, Developer, and Tutor !
+-  I'm a Learner, Developer, Freelancer, Tutor, and YouTuber !
 
 # About Me 🚀
 - 🔭 Now I’m working on Full-Stack Development!
