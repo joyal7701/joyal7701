@@ -7,7 +7,6 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play table tennis & do 🏊‍♂️
 - 📫 How to reach me:  [🌐](https://joyal-portfolio.netlify.app)
-- 📝 See my [Resume](https://joyal7701.github.io/assets/Joyal's%20Resume.pdf) to get more info.
 - 💸 You can support my work by [buying me a pizza 🍕 ](https://www.buymeacoffee.com/joyal7701)
 
 ## 🤝 Connect With Me
